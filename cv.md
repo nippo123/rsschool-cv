@@ -19,4 +19,4 @@ SKILLS
   ★★★★★ HTML5
   ★★★★★ CSS
   ★★★★★ PHP
-
+https://www.codewars.com/users/rsschool_9aa6c6b94190d80a
